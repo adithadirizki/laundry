@@ -1,5 +1,14 @@
 # CodeIgniter 4 Framework
 
+## Live demo on
+
+[App Laundry](https://laundry.icreativedevs.xyz) - *please don't destroy this website or existing data for the convenience of other visitors*
+
+username | password | role
+-------- | -------- | ----
+admin | 123456 | admin
+user2   | 123456 | staff
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible, and secure. 
